@@ -26,7 +26,7 @@ Backend · Cloud · Minecraft server software
   "localtime": "Asia/Riyadh",
   "highlights": [
     "WorldSkills Shanghai 2026 - Cloud Computing competitor",
-    "Volunteer developer - Al-Jaroodiah Charity blood donation platform"
+    "Volunteer developer - Charity blood donation platform"
   ]
 }
 ```
